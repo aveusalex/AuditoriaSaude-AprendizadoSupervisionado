@@ -6,3 +6,11 @@ As avaliações foram feitas baseadas no score da competição Kaggle: https://w
 
 Exercitei os conhecimentos aprendidos desde o entendimento dos dados até sua modelagem, com todos os processos comentados e devidamente documentados para fácil abstração.
 
+Por enquanto o código está um pouco bagunçado (heheh), mas logo organizarei de forma melhor.
+
+No entanto, as ideias que tive e as análises que fiz são facilmente percebidas.
+
+Apenas um aviso: por ter sido uma competição (muito corrida, diga-se de passagem) algumas abordagens apenas foram lançadas e não foram finalizadas.
+
+
+Espero que faça bom proveito dessa percepção!
